@@ -133,7 +133,7 @@ To confirm our insights we conduct statisctical analysis to confirm whether our 
 **linear regression**  and **Z test**
 In this section we use different statistical packages in python namely "sklearn", "scipy" and "statsmodels"
 
-![domesticgross_vs_domestic_gross](./images/domesticgross_vs_domestic_gross.png)
+![domesticgross_vs_domestic_gross](./Images/domesticgross_vs_domestic_gross.png)
 
 ### Conclusion
 This shows that there's a **positive correlation**.
