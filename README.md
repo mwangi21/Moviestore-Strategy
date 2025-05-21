@@ -104,7 +104,7 @@ In order to perform calculations and visualizations thereafter we first prepare 
   ## 📊  Top 10 Profitable Movies
   **Visualization of financial data using profit**
   - Comparing worldwide gross with production budget to visualize the profit the movies made.
-      ![Profit_vs_worlwidegross](./images/Profit_vs_worlwidegross.png)
+      ![Profit_vs_worlwidegross](./main/Images/Profit_vs_worlwidegross.png)
   **Visualization of financial data using ROI**
 
   - Comparing the production budget to ROI enables us to cater for movies like "Deep throat" that had significantly lower production     budgets and did not make alot of profit compared to movies like Avatar but made very high ROI because of the low productuction budget.
