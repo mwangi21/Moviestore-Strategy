@@ -115,7 +115,7 @@ In order to perform calculations and visualizations thereafter we first prepare 
   We construct the following visualizations:
 
   - **Scatter Plot** Shows the distributon of runtime against the rating.
-    ![Runtime_vs_rating](./images/Runtime_vs_rating.png)
+    ![Runtime_vs_rating](./Images/Runtime_vs_rating.png)
   - **Bar Plot**  Shows the average Runtime by Rating.
     ![runtimeaverage_vs_rating](./images/runtimeaverage_vs_rating.png)
     
