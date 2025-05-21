@@ -108,7 +108,7 @@ In order to perform calculations and visualizations thereafter we first prepare 
   **Visualization of financial data using ROI**
 
   - Comparing the production budget to ROI enables us to cater for movies like "Deep throat" that had significantly lower production     budgets and did not make alot of profit compared to movies like Avatar but made very high ROI because of the low productuction budget.
-    ![ROI_vs_worldwidegross](./Images/ROI_vs_worldwidegross.pngg)
+    ![ROI_vs_worldwidegross](./Images/ROI_vs_worldwidegross.png)
       
   ## 🎬 Comparing the ratings to runtime using Rotten tomatoes data
   We cleaned and merged the `rt_reviews` and `rt_movie_info` datasets using movie `id`. This allowed us to explore relationships between movie ratings, runtime, and publisher reviews. These plots help to identify patterns in critical reviews based on runtime or reviewing source 
