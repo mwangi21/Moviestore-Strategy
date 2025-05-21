@@ -117,7 +117,7 @@ In order to perform calculations and visualizations thereafter we first prepare 
   - **Scatter Plot** Shows the distributon of runtime against the rating.
     ![Runtime_vs_rating](./Images/Runtime_vs_rating.png)
   - **Bar Plot**  Shows the average Runtime by Rating.
-    ![runtimeaverage_vs_rating](./images/runtimeaverage_vs_rating.png)
+    ![runtimeaverage_vs_rating](./iImages/runtimeaverage_vs_rating.png)
     
   - **Boxplot** Shows Ratings by Publisher
     ![Publisher_vs_rating](./Images/Publisher_vs_rating.png)
