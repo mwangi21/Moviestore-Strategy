@@ -120,7 +120,7 @@ In order to perform calculations and visualizations thereafter we first prepare 
     ![runtimeaverage_vs_rating](./images/runtimeaverage_vs_rating.png)
     
   - **Boxplot** Shows Ratings by Publisher
-    ![Publisher_vs_rating](./images/Publisher_vs_rating.png)
+    ![Publisher_vs_rating](./Images/Publisher_vs_rating.png)
 
     ### Key Findings:
 - **Scatter Plot:** Showed that most movies fall within a typical runtime range (80–120 minutes), and their ratings vary with some outliers.
