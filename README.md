@@ -51,9 +51,8 @@ You can install these libraries using pip.
 
 This repository is organized to facilitate easy access to project files and resources. Below is a guide to help you navigate its contents:
 
-* **Dataset/:** This directory contains the data used in the analysis. 
+* **Dataset:** This directory contains the data used in the analysis. 
 * **Notebooks/:** This directory contains the Jupyter Notebooks used for data exploration, preparation, analysis, and visualization.
-* **.gitignore:** This file specifies any files or directories that should not be tracked by Git.
 * **README.md:** This file provides a comprehensive overview of the aviation accident analysis project.
 # Project Overview
 
